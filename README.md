@@ -1,0 +1,2 @@
+# LY2NJ-240V
+Relay 240VAC @10 AMP
